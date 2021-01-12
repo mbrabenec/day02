@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    font-family: sans-serif;
+
+}
+
+nav {
+    background: #515151;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: #ffffff;
+    padding: 0 2rem
+    
+}
+
+img {
+    
+}
+
+section {
+    vertical-align: middle;
+}
+
+
+footer {
+    background: #212121;
+    padding: 1em;
+
+    color: #ffffff;
+    text-align: center;
+}
+
+.button {
+    background: #f88e37;
+    color: #ffffff;
+    padding: 0.2em;
+}
